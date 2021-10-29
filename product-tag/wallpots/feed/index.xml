@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wallpots &#8211; Scrappy WallPot</title>
+	<atom:link href="/product-tag/wallpots/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Wallpots, Fishes, Plants, Fish Foods and More</description>
+	<lastBuildDate>Fri, 04 Jun 2021 11:47:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/02/cropped-Scrappy_Wall_Pot_LOGO_page-0001__1_-removebg-preview-32x32.png</url>
+	<title>wallpots &#8211; Scrappy WallPot</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Aquaglobe Sea Blue</title>
+		<link>/product/aquaglobe-sea-blue/</link>
+					<comments>/product/aquaglobe-sea-blue/#respond</comments>
+		
+		<dc:creator><![CDATA[hungry-blackwell]]></dc:creator>
+		<pubDate>Thu, 18 Mar 2021 12:41:49 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=8264</guid>
+
+					<description><![CDATA[<b>Highlights</b>
+<ul>
+ 	<li>Acrylic Material</li>
+ 	<li>Easy Installation</li>
+ 	<li>One Year Warranty</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/aquaglobe-sea-blue/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aquaglobe Ocean Green</title>
+		<link>/product/aquaglobe-18-inch/</link>
+					<comments>/product/aquaglobe-18-inch/#respond</comments>
+		
+		<dc:creator><![CDATA[hungry-blackwell]]></dc:creator>
+		<pubDate>Wed, 17 Feb 2021 04:30:31 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=7470</guid>
+
+					<description><![CDATA[<b>Highlights</b>
+<ul>
+ 	<li>Acrylic Material</li>
+ 	<li>Easy Installation</li>
+ 	<li>One Year Warranty</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/aquaglobe-18-inch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aquaglobe Deep Pink</title>
+		<link>/product/aquaglobe-15-inch/</link>
+					<comments>/product/aquaglobe-15-inch/#respond</comments>
+		
+		<dc:creator><![CDATA[hungry-blackwell]]></dc:creator>
+		<pubDate>Wed, 17 Feb 2021 04:24:18 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=7463</guid>
+
+					<description><![CDATA[<b>Highlights</b>
+<ul>
+ 	<li>Acrylic Material</li>
+ 	<li>Easy Installation</li>
+ 	<li>One Year Warranty</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/aquaglobe-15-inch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
